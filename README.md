@@ -7,7 +7,7 @@
 ![Python Intermediate](https://img.shields.io/badge/CSS-Intermediate-yellowgreen.svg)
 ![Python Intermediate](https://img.shields.io/badge/JavaScript-Intermediate-green.svg)
 
-## Acknowledgements
+
 
  - 👀 I’m interested in erudition of new technologies.
  - 🌱 I’m currently pursuring B.tech degree in computer science and engineering
